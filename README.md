@@ -27,7 +27,7 @@ When these markers are detected, the script automatically terminates cursor-agen
 ### Example
 
 ```bash
-./cursor-agent-monitor.sh --model sonnet-4 -p --output-format json "write a snake game in python"
+./cursor-agent-monitor.sh --model sonnet-4 -p --output-format json "write a python function that calculates the median of an array"
 ```
 
 This command will:
