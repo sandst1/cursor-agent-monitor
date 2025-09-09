@@ -56,7 +56,6 @@ while true; do
         fi
     fi
     
-    echo "Monitoring... (${elapsed}s elapsed)"
     sleep $POLL_INTERVAL
 done
 
