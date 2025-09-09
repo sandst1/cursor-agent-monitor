@@ -3,7 +3,7 @@
 # Real-time monitoring wrapper for cursor-agent
 
 # Configuration
-TIMEOUT=30  # Maximum time to wait
+TIMEOUT=300  # Maximum time to wait
 POLL_INTERVAL=1  # How often to check (seconds)
 
 # Create a temporary file for accumulating output
